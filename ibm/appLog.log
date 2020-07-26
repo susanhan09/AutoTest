@@ -1,0 +1,15 @@
+Project created on Sun Jul 26 2020, 15:53:55 GMT+0800 (中国标准时间)
+
+ Info | appDB | init | Sun Jul 26 2020, 15:53:55 GMT+0800 (中国标准时间) | 已初始化应用程序数据库
+ Info | datasourceDB | init | Sun Jul 26 2020, 15:53:55 GMT+0800 (中国标准时间) | 已初始化数据源数据库
+ Info | dsActionsDB | init | Sun Jul 26 2020, 15:53:55 GMT+0800 (中国标准时间) | 已初始化数据源操作数据库
+ Info | dsAttributesDB | init | Sun Jul 26 2020, 15:53:55 GMT+0800 (中国标准时间) | 已初始化数据源属性数据库
+ Info | dsActionsMoreDB | init | Sun Jul 26 2020, 15:53:55 GMT+0800 (中国标准时间) | 已初始化数据源更多操作数据库
+ Info | settingsDB | init | Sun Jul 26 2020, 15:53:55 GMT+0800 (中国标准时间) | 已初始化设置数据库
+Success | CreateWebProject | createReactJSProject | Sun Jul 26 2020, 15:53:55 GMT+0800 (中国标准时间) | 已初始化所有数据库
+Success | CreateWebProject | createReactJSProject | Sun Jul 26 2020, 15:53:55 GMT+0800 (中国标准时间) | 已初始化所有数据库
+ Info | CreateWebProject | createReactJSProject | Sun Jul 26 2020, 15:53:58 GMT+0800 (中国标准时间) | Installing packages. This might take a couple of minutes.
+
+ Info | CreateWebProject | createReactJSProject | Sun Jul 26 2020, 15:53:58 GMT+0800 (中国标准时间) | Installing react, react-dom, and react-scripts with cra-template-react_router...
+
+
